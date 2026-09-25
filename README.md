@@ -1,4 +1,5 @@
-#Evaluación Comparativa de Arquitecturas CNN en CIFAR-10
+Evaluación Comparativa de Arquitecturas CNN en CIFAR-10
+
 Este repositorio ya tiene el checkpoint 3 resuelto, donde se diseñaron y entrenaron varios
 CNNs
 
